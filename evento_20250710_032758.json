@@ -1,0 +1,15 @@
+[
+  {
+    "delivery_code": "f3aeec50-8af8-47df-a907-6d62390c6df5",
+    "email": "juan.canecillas31@gmail.com",
+    "event": "delivered",
+    "ip": "159.183.224.105",
+    "response": "250 2.0.0 OK  1752135497 98e67ed59e1d1-31c3eb79dcasi1618936a91.144 - gsmtp",
+    "sg_event_id": "ZGVsaXZlcmVkLTAtNTM5OTIxMTItVGtSd1hLODRUdEs0Zk5vMHZ0aWJXdy0w",
+    "sg_message_id": "TkRwXK84TtK4fNo0vtibWw.recvd-7fd96f4944-vrppq-1-686F7746-20.0",
+    "smtp-id": "<TkRwXK84TtK4fNo0vtibWw@geopod-ismtpd-16>",
+    "timestamp": 1752135497,
+    "tls": 1,
+    "usuario": "admin@ml4credit.com"
+  }
+]

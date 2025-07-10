@@ -1,0 +1,143 @@
+[
+  {
+    "email": "example@test.com",
+    "timestamp": 1752135979,
+    "smtp-id": "<14c5d75ce93.dfd.64b469@ismtpd-555>",
+    "event": "processed",
+    "category": [
+      "cat facts"
+    ],
+    "sg_event_id": "abdp5OCGQOT1yTbMkke6Cw==",
+    "sg_message_id": "14c5d75ce93.dfd.64b469.filter0001.16648.5515E0B88.0"
+  },
+  {
+    "email": "example@test.com",
+    "timestamp": 1752135979,
+    "smtp-id": "<14c5d75ce93.dfd.64b469@ismtpd-555>",
+    "event": "deferred",
+    "category": [
+      "cat facts"
+    ],
+    "sg_event_id": "06P4m-2QNX-_oAhGTLyRiA==",
+    "sg_message_id": "14c5d75ce93.dfd.64b469.filter0001.16648.5515E0B88.0",
+    "response": "400 try again later",
+    "attempt": "5"
+  },
+  {
+    "email": "example@test.com",
+    "timestamp": 1752135979,
+    "smtp-id": "<14c5d75ce93.dfd.64b469@ismtpd-555>",
+    "event": "delivered",
+    "category": [
+      "cat facts"
+    ],
+    "sg_event_id": "qcQOCsQozZ6h6AaCer7jAw==",
+    "sg_message_id": "14c5d75ce93.dfd.64b469.filter0001.16648.5515E0B88.0",
+    "response": "250 OK"
+  },
+  {
+    "email": "example@test.com",
+    "timestamp": 1752135979,
+    "smtp-id": "<14c5d75ce93.dfd.64b469@ismtpd-555>",
+    "event": "open",
+    "category": [
+      "cat facts"
+    ],
+    "sg_event_id": "Vk4Yg0ZXp_JVBlluw-KGGA==",
+    "sg_message_id": "14c5d75ce93.dfd.64b469.filter0001.16648.5515E0B88.0",
+    "useragent": "Mozilla/4.0 (compatible; MSIE 6.1; Windows XP; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
+    "ip": "255.255.255.255"
+  },
+  {
+    "email": "example@test.com",
+    "timestamp": 1752135979,
+    "smtp-id": "<14c5d75ce93.dfd.64b469@ismtpd-555>",
+    "event": "click",
+    "category": [
+      "cat facts"
+    ],
+    "sg_event_id": "dwjHVYqXmD6No60QPk6Mgg==",
+    "sg_message_id": "14c5d75ce93.dfd.64b469.filter0001.16648.5515E0B88.0",
+    "useragent": "Mozilla/4.0 (compatible; MSIE 6.1; Windows XP; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
+    "ip": "255.255.255.255",
+    "url": "http://www.sendgrid.com/"
+  },
+  {
+    "email": "example@test.com",
+    "timestamp": 1752135979,
+    "smtp-id": "<14c5d75ce93.dfd.64b469@ismtpd-555>",
+    "event": "bounce",
+    "category": [
+      "cat facts"
+    ],
+    "sg_event_id": "LtjGC1wFx0BD5ss_-5bqQQ==",
+    "sg_message_id": "14c5d75ce93.dfd.64b469.filter0001.16648.5515E0B88.0",
+    "reason": "500 unknown recipient",
+    "status": "5.0.0"
+  },
+  {
+    "email": "example@test.com",
+    "timestamp": 1752135979,
+    "smtp-id": "<14c5d75ce93.dfd.64b469@ismtpd-555>",
+    "event": "dropped",
+    "category": [
+      "cat facts"
+    ],
+    "sg_event_id": "Q0zOm3JuMYGO5CZwltdEOg==",
+    "sg_message_id": "14c5d75ce93.dfd.64b469.filter0001.16648.5515E0B88.0",
+    "reason": "Bounced Address",
+    "status": "5.0.0"
+  },
+  {
+    "email": "example@test.com",
+    "timestamp": 1752135979,
+    "smtp-id": "<14c5d75ce93.dfd.64b469@ismtpd-555>",
+    "event": "spamreport",
+    "category": [
+      "cat facts"
+    ],
+    "sg_event_id": "Zbq_CC9BSjR7eY6dbrYfCg==",
+    "sg_message_id": "14c5d75ce93.dfd.64b469.filter0001.16648.5515E0B88.0"
+  },
+  {
+    "email": "example@test.com",
+    "timestamp": 1752135979,
+    "smtp-id": "<14c5d75ce93.dfd.64b469@ismtpd-555>",
+    "event": "unsubscribe",
+    "category": [
+      "cat facts"
+    ],
+    "sg_event_id": "tSCYB9J-hKkJaTaAymR4qQ==",
+    "sg_message_id": "14c5d75ce93.dfd.64b469.filter0001.16648.5515E0B88.0"
+  },
+  {
+    "email": "example@test.com",
+    "timestamp": 1752135979,
+    "smtp-id": "<14c5d75ce93.dfd.64b469@ismtpd-555>",
+    "event": "group_unsubscribe",
+    "category": [
+      "cat facts"
+    ],
+    "sg_event_id": "XNEGJfZf0_O_NwqL-8q-ug==",
+    "sg_message_id": "14c5d75ce93.dfd.64b469.filter0001.16648.5515E0B88.0",
+    "useragent": "Mozilla/4.0 (compatible; MSIE 6.1; Windows XP; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
+    "ip": "255.255.255.255",
+    "url": "http://www.sendgrid.com/",
+    "asm_group_id": 10
+  },
+  {
+    "email": "example@test.com",
+    "timestamp": 1752135979,
+    "smtp-id": "<14c5d75ce93.dfd.64b469@ismtpd-555>",
+    "event": "group_resubscribe",
+    "category": [
+      "cat facts"
+    ],
+    "sg_event_id": "-pijr8ATZ83v6WKJYR7r0w==",
+    "sg_message_id": "14c5d75ce93.dfd.64b469.filter0001.16648.5515E0B88.0",
+    "useragent": "Mozilla/4.0 (compatible; MSIE 6.1; Windows XP; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
+    "ip": "255.255.255.255",
+    "url": "http://www.sendgrid.com/",
+    "asm_group_id": 10
+  }
+]
